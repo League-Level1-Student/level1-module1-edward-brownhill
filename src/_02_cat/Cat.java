@@ -19,6 +19,7 @@ package _02_cat;
 
 public class Cat {
 
+
 	private String name;
 	private int lives = 9;
 
